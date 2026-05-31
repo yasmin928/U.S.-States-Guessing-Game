@@ -89,7 +89,8 @@ python main.py
 
 
 
-Uploading U.S. States Game 2026-05-31 22-18-05.mp4…
+<img width="742" height="619" alt="image" src="https://github.com/user-attachments/assets/bc51a851-9cb3-49b9-9fc8-d4fbfc95a4fb" />
+
 
 
 
